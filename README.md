@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alcotronic
 - 👀 I’m interested in coding things
-- 🌱 I’m currently learning d3
+- 🌱 I’m currently working on my lighthouse-automation project
 - 💞️ I’m looking to collaborate on useful things
 - 📫 How to reach me is a problem to solve
 
